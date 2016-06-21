@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "559148279343",
+    "firebase_url": "https://android-firebase-message.firebaseio.com",
+    "project_id": "android-firebase-message",
+    "storage_bucket": "android-firebase-message.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559148279343:android:d200368595f60449",
+        "android_client_info": {
+          "package_name": "net.andriodtime.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559148279343-ritqlilndblkm2a5lfkc2nhm27gtvsov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS8g6OUyr-vwT_OTLdR2MTJUvnmuYcYpk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
